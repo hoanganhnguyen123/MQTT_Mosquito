@@ -5,6 +5,6 @@
 
 3. Результат
 
-[pub](./images/pub.png)
+![pub](./images/pub.png)
 
-[sub](./images/sub.png)
+![sub](./images/sub.png)
